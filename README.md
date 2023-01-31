@@ -14,4 +14,4 @@ Humane is only available for Windows.
 
 ## Licence
 
-[GPL3](https://github.com/Zubogain/humane/blob/main/LICENSE)
+[GPL-3.0 license](https://github.com/Zubogain/humane/blob/main/LICENSE)
