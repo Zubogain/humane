@@ -1,9 +1,6 @@
 import sys
 import functools
-from PySide6.QtCore import QPoint, QSize, Slot, QThread, Signal, QTimer
-from PySide6.QtWidgets import QHBoxLayout, QApplication, QMainWindow, QWidget
-from PySide6.QtGui import QIcon, QScreen, Qt, QCursor
-from BlurWindow.blurWindow import blur
+from PySide6.QtCore import Slot, QTimer
 
 from ui import Ui_MainWindow
 
